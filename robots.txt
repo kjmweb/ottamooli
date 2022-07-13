@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kjmweb.github.io/ottamooli/sitemap.xml
