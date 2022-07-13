@@ -11,6 +11,34 @@
     },
     "items": [
         {
+            "id": "https://ottamooli.ayurveda.cyou/medical-disclaimer.html",
+            "url": "https://ottamooli.ayurveda.cyou/medical-disclaimer.html",
+            "title": "Medical Disclaimer",
+            "summary": "THIS WEB SITE IS NOT DESIGNED TO, AND DOES NOT, PROVIDE MEDICAL ADVICE. ALL CONTENT (“CONTENT”), INCLUDING TEXT, GRAPHICS, IMAGES AND INFORMATION AVAILABLE ON OR&hellip;",
+            "author": {
+                "name": "Ottamooli"
+            },
+            "tags": [
+                   "Policy"
+            ],
+            "date_published": "2022-07-13T14:01:38+05:30",
+            "date_modified": "2022-07-13T14:01:38+05:30"
+        },
+        {
+            "id": "https://ottamooli.ayurveda.cyou/disclosure.html",
+            "url": "https://ottamooli.ayurveda.cyou/disclosure.html",
+            "title": "Disclosure",
+            "summary": "Disclosure of Material Connection: Some of the links in this website are affiliate links. This means if you click on the link and purchase the&hellip;",
+            "author": {
+                "name": "Ottamooli"
+            },
+            "tags": [
+                   "Policy"
+            ],
+            "date_published": "2022-07-13T14:00:08+05:30",
+            "date_modified": "2022-07-13T14:00:08+05:30"
+        },
+        {
             "id": "https://ottamooli.ayurveda.cyou/cookie-policy.html",
             "url": "https://ottamooli.ayurveda.cyou/cookie-policy.html",
             "title": "Cookie Policy",
@@ -121,34 +149,6 @@
             ],
             "date_published": "2022-07-13T11:20:17+05:30",
             "date_modified": "2022-07-13T11:20:17+05:30"
-        },
-        {
-            "id": "https://ottamooli.ayurveda.cyou/choornam.html",
-            "url": "https://ottamooli.ayurveda.cyou/choornam.html",
-            "title": "ചൂർണ്ണങ്ങൾ",
-            "summary": "അഷ്ടചൂർണ്ണം: പ്രധാനദ്രവ്യങ്ങൾ – തിപ്പലി, അയമോദകം, ഇന്ദുപ്പ്, ജീരകം, കരിംജീരകം, കായം, കുരുമുളക്,ചുക്ക്. ഫലശ്രുതി – വയറുവേദന, ഗുല്ലം, അഗ്നിമാന്ദ്യം എന്നീ അവസ്ഥകളിൽ ഫലപ്രദമാകുന്നു. കുട്ടികൾക്ക് 3 ഗ്രാം വരെ ആഹാരത്തിൽ ചേർത്ത് ദിവസവും&hellip;",
-            "author": {
-                "name": "Ottamooli"
-            },
-            "tags": [
-                   "ചൂർണ്ണങ്ങൾ"
-            ],
-            "date_published": "2022-07-13T11:18:17+05:30",
-            "date_modified": "2022-07-13T11:18:17+05:30"
-        },
-        {
-            "id": "https://ottamooli.ayurveda.cyou/kashayam.html",
-            "url": "https://ottamooli.ayurveda.cyou/kashayam.html",
-            "title": "കഷായം",
-            "summary": "അമൃതോത്തരം കഷായം: പ്രധാനദ്രവ്യങ്ങൾ – ചിറ്റമൃത്, കടുക്കത്തോട്, ചുക്ക്. മാത്ര – 5 മുതൽ 15 മില്ലി വരെ മൂന്നിരട്ടി തിളപ്പിച്ചാറിയ വെള്ളം ചേർത്ത് 2 നേരം സേവിക്കുക. ഫലശ്രുതി – ജ്വരം, ശോഫം&hellip;",
-            "author": {
-                "name": "Ottamooli"
-            },
-            "tags": [
-                   "കഷായം"
-            ],
-            "date_published": "2022-07-13T11:12:59+05:30",
-            "date_modified": "2022-07-13T11:12:59+05:30"
         }
     ]
 }
