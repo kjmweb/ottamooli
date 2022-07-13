@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://kjmweb.github.io/ottamooli/sitemap.xml
+Sitemap: https://ottamooli.ayurveda.cyou/sitemap.xml
